@@ -1,0 +1,24 @@
+certifi==2023.7.22
+charset-normalizer==3.3.2
+idna==3.4
+networkx==3.2.1
+numpy==1.26.2
+pandas==2.1.3
+Pillow==10.1.0
+platformdirs==4.0.0
+pyobjc-core==10.0
+pyobjc-framework-Cocoa==10.0
+pyobjc-framework-libdispatch==10.0
+pyobjc-framework-Metal==10.0
+pyopencl==2023.1.4
+python-dateutil==2.8.2
+pytools==2023.1.1
+pytz==2023.3.post1
+PyYAML==6.0.1
+requests==2.31.0
+sentencepiece==0.1.99
+six==1.16.0
+tinygrad @ git+https://github.com/tinygrad/tinygrad.git@01f8781c26e437371bc5fb1026d39bf4defb7336
+tqdm==4.66.1
+tzdata==2023.3
+urllib3==2.1.0
